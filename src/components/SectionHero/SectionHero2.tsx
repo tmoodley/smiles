@@ -70,7 +70,7 @@ const SectionHero2: FC<SectionHero2Props> = ({ className = "", children }) => {
 
       {/* SEARCH / MINT FORM */}
       <div className="z-10 mb-12 lg:mb-0 lg:-mt-20 xl:-mt-48 w-full">
-        <HeroSearchForm placeholder="Upload your smile or selfie..." buttonLabel="Tokenize It" />
+        <HeroSearchForm />
       </div>
     </div>
   );
