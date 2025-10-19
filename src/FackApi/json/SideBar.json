@@ -1,0 +1,85 @@
+[
+  {
+    "title": "Profile",
+    "name": "sidebar.profile",
+    "is_heading": false,
+    "is_active": false,
+    "link": {
+      "name": "social.profile"
+    },
+    "class_name": "",
+    "is_icon_class": true,
+    "icon": "las la-user"
+  },
+  {
+    "title": "Friend Lists",
+    "name": "sidebar.friend_list",
+    "is_heading": false,
+    "is_active": false,
+    "link": {
+      "name": "friends"
+    },
+    "class_name": "",
+    "is_icon_class": true,
+    "icon": "las la-user-friends"
+  },
+  {
+    "title": "Forum",
+    "name": "sidebar.profile_forum",
+    "is_heading": false,
+    "is_active": false,
+    "link": {
+      "name": "social.forum"
+    },
+    "class_name": "",
+    "is_icon_class": true,
+    "icon": "lab la-wpforms"
+  },
+  {
+    "title": "Groups",
+    "name": "sidebar.groups",
+    "is_heading": false,
+    "is_active": false,
+    "link": {
+      "name": "social.groups"
+    },
+    "class_name": "",
+    "is_icon_class": true,
+    "icon": "las la-users"
+  },  
+  {
+    "title": "Lessons",
+    "name": "sidebar.lessons",
+    "is_heading": false,
+    "is_active": false,
+    "link": {
+      "name": "social.lessons"
+    },
+    "class_name": "",
+    "is_icon_class": true,
+    "icon": "las la-video"
+  },
+  {
+    "title": "Tutors",
+    "name": "sidebar.tutors",
+    "is_active": false,
+    "link": {
+      "name": "tutorslist"
+    },
+    "class_name": "",
+    "is_icon_class": true,
+    "icon": "ri-price-tag-2-line"
+  }, 
+  {
+    "title": "Messages",
+    "name": "sidebar.messages",
+    "is_heading": false,
+    "is_active": false,
+    "link": {
+      "name": "messages"
+    },
+    "class_name": "",
+    "is_icon_class": true,
+    "icon": "ri-mail-open-line"
+  } 
+]
